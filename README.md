@@ -36,7 +36,6 @@ A aplicação é uma API simples desenvolvida com Flask, criada com o objetivo d
 ├── requirements.txt
 ├── Dockerfile
 ├── docker-compose.yml
-└── README.md
 ```
 
 ---
